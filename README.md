@@ -75,3 +75,7 @@ private func handle(error: CloudError?) {
     }
 }
 ```
+
+# Installation
+
+List this in your `Package.swift` manifest file as a [Swift Package](https://swift.org/package-manager/) dependency. [Releases Page](https://github.com/nashysolutions/Silver/releases/).
