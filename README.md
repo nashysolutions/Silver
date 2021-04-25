@@ -1,4 +1,4 @@
-# Silver
+# This repository is no longer maintained
 
 Every [CloudKit](https://developer.apple.com/icloud/cloudkit/) has a [silver lining](https://www.vocabulary.com/dictionary/silver%20lining).
 
